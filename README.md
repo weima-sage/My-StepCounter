@@ -1,9 +1,14 @@
+This repository is forked from
 ![My StepCounter iCon](https://raw.githubusercontent.com/jamesmontemagno/My-StepCounter/master/StepCounter/Resources/Icon@2x.png) My StepCounter
+==============
+
+I would like to use this as a starting point for learning mobile-development using Xamarin and applying some of the newest C# features.
+
 ==============
 
 Time to get active, lose weight, lower your blood pressure, live longer, and feel better! Download My StepCounter for free so you can enjoy this easy-to-use and beautifully designed pedometer app! Developed exclusively for iOS and Android 4.4+ devices, My StepCounter doesn’t require any special permissions and uses your device’s built in step counter, making the app extremely energy efficient. It's perfect for your on-the-go lifestyle!
 
-![My StepCounter](https://raw.githubusercontent.com/jamesmontemagno/My-StepCounter/master/Artwork/Android/Hero.png) 
+![My StepCounter](https://raw.githubusercontent.com/jamesmontemagno/My-StepCounter/master/Artwork/Android/Hero.png)
 
 
 
@@ -48,6 +53,3 @@ For more information on the iOS and Android apps read their respective read me f
 ### Support
 
 You can open an Issue here or leave feed back in our [Google+ Support Community](https://plus.google.com/u/1/communities/106433451512233846972)
-
-
-
